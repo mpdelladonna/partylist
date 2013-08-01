@@ -18,7 +18,7 @@ public class Partylist extends HttpServlet {
      * Default constructor. 
      */
     public Partylist() {
-        // TODO Auto-generated constructor stub
+        
     }
 
 	/**
